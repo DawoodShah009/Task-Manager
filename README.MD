@@ -1,6 +1,6 @@
 # Task-Manager
 
-Welcome to my project! This project is built using Node.js, Express, Mongoose, and utilizes npm for package management. In this project, I have created API endpoints which are performing CRUD operations. A simple front end has been added if you donot want to bother using POSTMAN or anyother api testing tool.
+Welcome to my project! This project is built using Node.js, Express, Mongoose, and utilizes npm for package management. In this project, I have created API endpoints which are performing CRUD operations. A simple front-end(not created by me) has been added if you donot want to bother using POSTMAN or anyother api testing tool.
 
 # Table of Contents
 
