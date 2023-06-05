@@ -46,7 +46,7 @@ An alternate for this command is 'npm run dev'
 
 # Databse
 
-A simple database witha single collection named Task(name, completed) is created. Just create a .env file and add your MONGO_URI to get started.
+A simple database with a single collection named Task(name, completed) is created. Just create a .env file and add your MONGO_URI to get started.
 
 # Usage
 
